@@ -37,7 +37,6 @@ git clone https://github.com/TommasoVandermeer/JSFM.git
 Finally, you need to install the requirements and then you can install the package:
 ```
 cd JSFM
-pip install -r requirements.txt
 python3 setup.py install
 ```
 You have successfully installed the package. Whenever you are done using this code, remember to deactivate your virtualenv:
